@@ -1,0 +1,22 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoan2/Node-Farm.git"
+  },
+  "author": "John Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhoan2/Node-Farm/issues"
+  },
+  "homepage": "https://github.com/jhoan2/Node-Farm#readme",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  }
+}
